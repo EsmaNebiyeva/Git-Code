@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/JavaProject
+    password: 12345
+    username: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
