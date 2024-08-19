@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/JavaProject
+    url: jdbc:postgresql://localhost:5432/Project
     password: 12345
     username: postgres
 
@@ -11,3 +11,4 @@ spring:
   data:
     rest:
       base-path: C:\Users\Asus\IdeaProjects\Project\src\main\resources\static
+
